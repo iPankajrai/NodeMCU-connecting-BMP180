@@ -10,9 +10,9 @@
  Connect GND to Ground.   
  connect i2c bus with SDA=D2 and SCL=D1 of NodeMCU. 
 
- Connect SCL to i2c clock - on '168/'328 Arduino Uno/Duemilanove/etc thats Analog 5.
- Connect SDA to i2c data - on '168/'328 Arduino Uno/Duemilanove/etc thats Analog 4.
- EOC is not used, it signifies an end of conversion.
- XCLR is a reset pin, also not used here.
+ Connect SCL to i2c clock - on '168/'328 Arduino Uno/Duemilanove/etc thats Analog 5.     
+ Connect SDA to i2c data - on '168/'328 Arduino Uno/Duemilanove/etc thats Analog 4.      
+ EOC is not used, it signifies an end of conversion.     
+ XCLR is a reset pin, also not used here.       
  
  ****************************************************/
